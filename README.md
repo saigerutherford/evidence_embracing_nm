@@ -1,6 +1,6 @@
 # Evidence for Embracing Normative Modeling
 
-Analysis and visualization code for *Evidence for Embracing Normative Modeling.* Rutherford et al. (2022). Preprint [here](https://www.biorxiv.org/content/10.1101/2022.11.14.516460v1.full.pdf).
+Analysis and visualization code for *Evidence for Embracing Normative Modeling.* Rutherford et al. [eLife](https://elifesciences.org/articles/85082) (2023).
 
 The pre-trained normative models of functional connectivity, cortical thickness, and surface area are hosted on the PCN lab GitHub [here](https://github.com/predictive-clinical-neuroscience/braincharts). These pre-trained normative models can also be accessed through the [PCNportal](https://pcnportal.dccn.nl/) website, a no code required interface for transfering big data normative models to new data sets.
 
